@@ -3,8 +3,6 @@
 
 
 == Journal
-. R. Yan, *X. Duan*, Z. Shi, Y, Zhong, F. Bullo. Maximum-Matching Capture Strategies for 3D Heterogeneous Multiplayer Reach-Avoid Games. Submitted, 2019. [https://arxiv.org/abs/1909.11881].
-. *X. Duan*, S. Jafarpour, F. Bullo. Graph-Theoretic Small-Gain Theorems for Metzler Matrices and Monotone Systems. Submitted, 2019. [https://arxiv.org/abs/1905.05868].
 . *X. Duan*, M. George, F. Bullo. Markov Chains with Maximum Return Time Entropy for Robotic Surveillance. IEEE Transactions on Automatic Control (regular paper), to appear, 2019. [https://doi.org/10.1109/TAC.2019.2906473].
 . G. Chen, *X. Duan*, N. Friedkin, F. Bullo. Social Power Dynamics over Switching and Stochastic Influence Networks. IEEE Transactions on Automatic Control (regular paper), 64(2): 582-597, 2019. [https://doi.org/10.1109/TAC.2018.2822182].
 . G. Chen, *X. Duan*, W. Mei, F. Bullo. Linear Stochastic Approximation Algorithms and Group Consensus over Random Signed Networks. IEEE Transactions on Automatic Control (regular paper), 64(5): 1874-1889, 2019. [https://doi.org/10.1109/TAC.2018.2867257].
@@ -21,3 +19,10 @@
 . C. Zhao, *X. Duan*, Y. Shi. Analysis of Consensus-based Economic Dispatch Algorithm under Uniform Time Delays. In IEEE Conference on Decision and Control, Las Vegas, NV, USA, pages 783-788, December 2016. [doi.org/10.1109/CDC.2016.7798363].
 . *X. Duan*, J. He, P. Cheng, Y. Mo, and J. Chen. Privacy Preserving Maximum Consensus. In IEEE Conference on Decision and Control, Osaka, Japan, pages 4517-4522, December 2015. [doi.org/10.1109/CDC.2015.7402925].
 . J. He, *X. Duan*, P. Cheng, L. Shi, and L. Cai. Distributed Time Synchronization under Bounded Noise in Wireless Sensor Networks. In IEEE Conference on Decision and Control, Los Angeles, CA, USA, pages 6883-6888, December 2014. [doi.org/10.1109/CDC.2014.7040470].
+
+
+== Preprints
+. *X. Duan*, M. George, R. Patel, and F. Bullo. Robotic Surveillance Based on the Meeting Time of Random Walks, [https://arxiv.org/abs/1912.02693].
+. R. Yan, *X. Duan*, Z. Shi, Y, Zhong, F. Bullo. Maximum-Matching Capture Strategies for 3D Heterogeneous Multiplayer Reach-Avoid Games, [https://arxiv.org/abs/1909.11881].
+. *X. Duan*, S. Jafarpour, F. Bullo. Graph-Theoretic Small-Gain Theorems for Metzler Matrices and Monotone Systems, [https://arxiv.org/abs/1905.05868].
+
