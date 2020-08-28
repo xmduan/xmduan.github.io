@@ -3,7 +3,7 @@
 
 
 == Journal
-. *X. Duan*, M. George, R. Patel, F. Bullo. Robotic Surveillance Based on the Meeting Time of Random Walks. IEEE Transactions on Robotics, to appear, 2020. [https://doi.org/10.1109/TRO.2020.2990362].
+. *X. Duan*, M. George, R. Patel, F. Bullo. Robotic Surveillance Based on the Meeting Time of Random Walks. IEEE Transactions on Robotics, 36(4): 1356-1362, 2020. [https://doi.org/10.1109/TRO.2020.2990362].
 . *X. Duan*, M. George, F. Bullo. Markov Chains with Maximum Return Time Entropy for Robotic Surveillance. IEEE Transactions on Automatic Control (regular paper), 65(1): 72-86, 2020. [https://doi.org/10.1109/TAC.2019.2906473].
 . C. Zhao, *X. Duan*, Y. Shi. Analysis of Consensus-based Economic Dispatch Algorithm under Time Delays. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 50(8): 2978-2988, 2020. [https://doi.org/10.1109/TSMC.2018.2840821].
 . G. Chen, *X. Duan*, N. Friedkin, F. Bullo. Social Power Dynamics over Switching and Stochastic Influence Networks. IEEE Transactions on Automatic Control (regular paper), 64(2): 582-597, 2019. [https://doi.org/10.1109/TAC.2018.2822182].
@@ -22,6 +22,7 @@
 
 
 == Preprints
+. *X. Duan*, F. Bullo. Markov Chain-Based Stochastic Strategies for Robotic Surveillance. [https://arxiv.org/abs/2008.09050].
 . *X. Duan*, S. Jafarpour, F. Bullo. Graph-Theoretic Stability Conditions for Metzler Matrices and Monotone Systems. [https://arxiv.org/abs/1905.05868].
 . R. Yan, *X. Duan*, Z. Shi, Y. Zhong, F. Bullo. Maximum-Matching Capture Strategies for 3D Heterogeneous Multiplayer Reach-Avoid Games. [https://arxiv.org/abs/1909.11881].
 . R. Yan, *X. Duan*, Z. Shi, Y. Zhong, J. R. Marden, F. Bullo. Policy Evaluation and Seeking for Multi-Agent Reinforcement Learning via Best Response. [https://arxiv.org/abs/2006.09585].
