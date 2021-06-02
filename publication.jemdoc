@@ -3,6 +3,7 @@
 
 
 == Journal
+. R. Yan, *X. Duan*, Z. Shi, Y. Zhong, J. R. Marden, F. Bullo. Policy Evaluation and Seeking for Multi-Agent Reinforcement Learning via Best Response. IEEE Transactions on Automatic Control (regular paper), 2021, to appear. [https://doi.org/10.1109/TAC.2021.3085171].
 . *X. Duan*, D. Paccagnan, F. Bullo. Stochastic Strategies for Robotic Surveillance as Stackelberg Games. IEEE Transactions on Control of Network Systems, 2021, to appear. [https://doi.org/10.1109/TCNS.2021.3058932].
 . C. Zhao, *X. Duan*, Lin Cai, Peng Cheng. Vehicle Platooning with Non-ideal Communication Networks. IEEE Transactions on Vehicular Technology, 70(1): 18-32, 2021. [https://doi.org/10.1109/TVT.2020.3046165].
 . *X. Duan*, F. Bullo. Markov Chain-Based Stochastic Strategies for Robotic Surveillance. Annual Review of Control, Robotics, and Autonomous Systems, 2020. [https://www.annualreviews.org/doi/abs/10.1146/annurev-control-071520-120123].
@@ -27,5 +28,4 @@
 == Preprints
 . *X. Duan*, S. Jafarpour, F. Bullo. Graph-Theoretic Stability Conditions for Metzler Matrices and Monotone Systems. [https://arxiv.org/abs/1905.05868].
 . R. Yan, *X. Duan*, Z. Shi, Y. Zhong, F. Bullo. Maximum-Matching Capture Strategies for 3D Heterogeneous Multiplayer Reach-Avoid Games. [https://arxiv.org/abs/1909.11881].
-. R. Yan, *X. Duan*, Z. Shi, Y. Zhong, J. R. Marden, F. Bullo. Policy Evaluation and Seeking for Multi-Agent Reinforcement Learning via Best Response. [https://arxiv.org/abs/2006.09585].
 
