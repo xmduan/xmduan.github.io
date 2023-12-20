@@ -3,6 +3,7 @@
 
 
 == Journal
+. C. Qu, J. He, J. Li, *X. Duan*, Y. Mo. Optimal Control for Mobile Agents Considering State Unpredictability. IEEE Transactions on Automatic Control, 2023.  [https://doi.org/10.1109/TAC.2023.3343818]. To appear.
 . F. Ding, J. Ke, W. Jin, J. He, *X. Duan*. Guaranteed Stabilization and Safety of Nonlinear Systems via Sliding Mode Control. IEEE Control Systems Letters, 7: 3367 - 3372, 2023. [https://doi.org/10.1109/LCSYS.2023.3329882].
 . C. Liao, Y. Wang, X. Ding, Y. Ren, *X. Duan*, J. He. Performance Comparison of Typical Physics Engines Using Robot Models with Multiple Joints. IEEE Robotics and Automation Letters, 8(11): 7520-7526, 2023.  [https://doi.org/10.1109/LRA.2023.3320019].
 . R. Yan, W. Zhang, R. Deng, *X. Duan*, Z. Shi, Y. Zhong. Evaluation and Learning in Two-Player Symmetric Games via Best and Better Responses. Information Sciences, 647: 119459, 2023. [https://doi.org/10.1016/j.ins.2023.119459].
@@ -25,6 +26,7 @@
 
 
 == Conference
+. X. Zhang, D. Wang, S. Han, W. Li, B. Zhao, Z. Wang, *X. Duan*, C. Fang, X. Li, J. He. Affordance-Driven Next-Best-View Planning for Robotic Grasping. In The Conference on Robot Learning, Atlanta, GA, USA, November 2023. [https://openreview.net/forum?id=IeKC9khX5jD]
 . *X. Duan*, Y. Wang, D. Romeres, T. Koike-Akino, P. V. Orlik. Trajectory Generation for Online Payload Estimation of Robot Manipulators: A Supervised Learning Based Approach. In International Conference on Automation Science and Engineering, Auckland, New Zealand, pages 1-7, August 2023. [https://doi.org/10.1109/CASE56687.2023.10260415].
 . *X. Duan*, N. Baharisangari, R. Yan, Z. Xu, M. Ornik. On a Notion of Resilience for Markov Decision Processes with Reachability Objectives. In IFAC World Congress, Yokohama, Japan, pages 11261-11266, July 2023. [https://doi.org/10.1016/j.ifacol.2023.10.318].
 . C. Qu, J. He, *X. Duan*, S. Wu. Control Input Inference of Mobile Agents under Unknown Objective. In IFAC World Congress, Yokohama, Japan, pages 2134-2139, July 2023. [https://doi.org/10.1016/j.ifacol.2023.10.1117].
