@@ -1,0 +1,76 @@
+# jemdoc: menu{MENU}{publication-topic.html}, showsource
+= Research topics
+
+== Robotic surveillance
+. L. Guo, H. Pan, *X. Duan*, J. He. Balancing Efficiency and Unpredictability in Multi-robot Patrolling: A MARL-Based Approach. In IEEE International Conference on Robotics and Automation, London, United Kingdom, pages 3504-3509, May 2023. [https://doi.org/10.1109/ICRA48891.2023.10160923].
+. *X. Duan*, D. Paccagnan, F. Bullo. Stochastic Strategies for Robotic Surveillance as Stackelberg Games. IEEE Transactions on Control of Network Systems, 8(2): 769-780, 2021. [https://doi.org/10.1109/TCNS.2021.3058932]. [https://xmduan.github.io/errata/Errata-TCNS.pdf Errata].
+. *X. Duan*, F. Bullo. Markov Chain-Based Stochastic Strategies for Robotic Surveillance. Annual Review of Control, Robotics, and Autonomous Systems, 4: 243-264, 2020. [https://www.annualreviews.org/doi/abs/10.1146/annurev-control-071520-120123].
+. *X. Duan*, M. George, R. Patel, F. Bullo. Robotic Surveillance Based on the Meeting Time of Random Walks. IEEE Transactions on Robotics, 36(4): 1356-1362, 2020. [https://doi.org/10.1109/TRO.2020.2990362].
+. *X. Duan*, M. George, F. Bullo. Markov Chains with Maximum Return Time Entropy for Robotic Surveillance. IEEE Transactions on Automatic Control, 65(1): 72-86, 2020. [https://doi.org/10.1109/TAC.2019.2906473].
+. *X. Duan*, M. George, F. Bullo. Markov Chains with Maximum Return Time Entropy for Robotic Surveillance. In IEEE Conference on Decision and Control, Miami, FL, USA, pages 5934-5939, December 2018. [https://doi.org/10.1109/CDC.2018.8619715].
+
+
+== Reach-avoid games/Stochastic games
+. R. Yan, *X. Duan*, R. Zou, X. He, Z. Shi, F. Bullo. Multiplayer Homicidal Chauffeur reach-avoid games: A pursuit enclosure function approach. Automatica, 167: 111770, 2024. [https://doi.org/10.1016/j.automatica.2024.111770].
+. R. Yan, W. Zhang, R. Deng, *X. Duan*, Z. Shi, Y. Zhong. Evaluation and Learning in Two-Player Symmetric Games via Best and Better Responses. Information Sciences, 647: 119459, 2023. [https://doi.org/10.1016/j.ins.2023.119459].
+. R. Yan, R. Deng, *X. Duan*, Z. Shi, Y. Zhong. Multiplayer Reach-Avoid Differential Games with Simple Motions: A Review. Frontiers in Control Engineering, 3, 2023. [https://doi.org/10.3389/fcteg.2022.1093186].
+. R. Yan, *X. Duan*, Z. Shi, Y. Zhong, F. Bullo. Maximum-Matching Capture Strategies for 3D Heterogeneous Multiplayer Reach-Avoid Games. Automatica, 140: 110207, 2022. [https://doi.org/10.1016/j.automatica.2022.110207].
+. R. Yan, G. Santos, *X. Duan*, D. Parker, M. Kwiatkowska. Finite-horizon Equilibria for Neuro-symbolic Concurrent Stochastic Games. In Conference on Uncertainty in Artificial Intelligence, Eindhoven, The Netherlands, pages 2170-2180, August 2022. [https://proceedings.mlr.press/v180/yan22a/yan22a.pdf].
+
+
+== (Psudo)Robotics
+. C. Liao, Y. Wang, X. Ding, Y. Ren, *X. Duan*, J. He. Performance Comparison of Typical Physics Engines Using Robot Models with Multiple Joints. IEEE Robotics and Automation Letters, 8(11): 7520-7526, 2023.  [https://doi.org/10.1109/LRA.2023.3320019].
+. X. Zhang, D. Wang, S. Han, W. Li, B. Zhao, Z. Wang, *X. Duan*, C. Fang, X. Li, J. He. Affordance-Driven Next-Best-View Planning for Robotic Grasping. In The Conference on Robot Learning, Atlanta, GA, USA, November 2023. [https://proceedings.mlr.press/v229/zhang23i.html].
+. C. Liao, X. Ding, *X. Duan*, J. He. A Virtual-Physical Interaction Framework for Mobile Robotics Testbeds. In China Automation Congress, Chongqing, China, pages 2931-2936, November 2023. [https://doi.org/10.1109/CAC59555.2023.10451913].
+. *X. Duan*, Y. Wang, D. Romeres, T. Koike-Akino, P. V. Orlik. Trajectory Generation for Online Payload Estimation of Robot Manipulators: A Supervised Learning Based Approach. In International Conference on Automation Science and Engineering, Auckland, New Zealand, pages 1-7, August 2023. [https://doi.org/10.1109/CASE56687.2023.10260415].
+
+
+== Controls/Dynamical systems
+. F. Ding, J. Ke, W. Jin, J. He, *X. Duan*. Guaranteed Stabilization and Safety of Nonlinear Systems via Sliding Mode Control. IEEE Control Systems Letters, 7: 3367 - 3372, 2023. [https://doi.org/10.1109/LCSYS.2023.3329882].
+. Z. Wang, X. Ding, *X. Duan*, J. He. Learning-based Optimal Control for Linear Systems with Model Uncertainties. In IFAC World Congress, Yokohama, Japan, pages 4006-4012, July 2023. [https://doi.org/10.1016/j.ifacol.2023.10.1381].
+. *X. Duan*, S. Jafarpour, F. Bullo. Graph-Theoretic Stability Conditions for Metzler Matrices and Monotone Systems. SIAM Journal on Control and Optimization, 59(5): 3447-3471, 2021. [https://doi.org/10.1137/20M131802X].
+
+
+== Multiagent/Networked systems
+. Z. Wang, Y. Li, *X. Duan*, J. He. Topology-Preserving Motion Coordination for Multi-Robot Systems in Adversarial Environments. IEEE Journal of Selected Topics in Signal Processing, to appear. [https://doi.org/10.1109/JSTSP.2024.3421898].
+. Z. Wang, Y. Li, *X. Duan*, J. He. Topology-Preserving Second-Order Consensus: A Strategic Compensation Approach. In IEEE Conference on Decision and Control, Singapore, Singapore, pages 399-404, December 2023. [https://doi.org/10.1109/CDC49753.2023.10383971].
+. C. Zhao, *X. Duan*, Lin Cai, Peng Cheng. Vehicle Platooning with Non-ideal Communication Networks. IEEE Transactions on Vehicular Technology, 70(1): 18-32, 2021. [https://doi.org/10.1109/TVT.2020.3046165].
+. C. Zhao, *X. Duan*, Y. Shi. Analysis of Consensus-based Economic Dispatch Algorithm under Time Delays. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 50(8): 2978-2988, 2020. [https://doi.org/10.1109/TSMC.2018.2840821].
+. G. Chen, *X. Duan*, N. Friedkin, F. Bullo. Social Power Dynamics over Switching and Stochastic Influence Networks. IEEE Transactions on Automatic Control, 64(2): 582-597, 2019. [https://doi.org/10.1109/TAC.2018.2822182].
+. G. Chen, *X. Duan*, W. Mei, F. Bullo. Linear Stochastic Approximation Algorithms and Group Consensus over Random Signed Networks. IEEE Transactions on Automatic Control, 64(5): 1874-1889, 2019. [https://doi.org/10.1109/TAC.2018.2867257].
+. J. He, *X. Duan*, P. Cheng, L. Shi, L. Cai. Accurate Clock Synchronization in Wireless Sensor Networks with Bounded Noise. Automatica, 81: 350-358, 2017. [https://doi.org/10.1016/j.automatica.2017.03.009].
+. *X. Duan*, J. He, P. Cheng, J. Chen. Exploiting a Mobile Node for Fast Discrete Time Average Consensus. IEEE Transactions on Control Systems Technology, 24(6): 1993-2001, 2016. [https://doi.org/10.1109/TCST.2016.2521802].
+. *X. Duan*, N. Freris, P. Cheng. Secure Clock Synchronization under Collusion Attacks. In Allerton Conference on Communication, Control, and Computing, pages 1142-1148, September 2016. [https://doi.org/10.1109/ALLERTON.2016.7852364].
+. C. Zhao, *X. Duan*, Y. Shi. Analysis of Consensus-based Economic Dispatch Algorithm under Uniform Time Delays. In IEEE Conference on Decision and Control, Las Vegas, NV, USA, pages 783-788, December 2016. [https://doi.org/10.1109/CDC.2016.7798363].
+. *X. Duan*, J. He, P. Cheng, Y. Mo, J. Chen. Privacy Preserving Maximum Consensus. In IEEE Conference on Decision and Control, Osaka, Japan, pages 4517-4522, December 2015. [https://doi.org/10.1109/CDC.2015.7402925].
+. J. He, *X. Duan*, P. Cheng, L. Shi, L. Cai. Distributed Time Synchronization under Bounded Noise in Wireless Sensor Networks. In IEEE Conference on Decision and Control, Los Angeles, CA, USA, pages 6883-6888, December 2014. [https://doi.org/10.1109/CDC.2014.7040470].
+
+
+== MDPs\/Dynamical programming\/RL
+. C. Qu, J. He, J. Li, *X. Duan*, Y. Mo. Optimal Control for Mobile Agents Considering State Unpredictability. IEEE Transactions on Automatic Control, 69(6): 3944-3951, 2024. [https://doi.org/10.1109/TAC.2023.3343818].
+. *X. Duan*, N. Baharisangari, R. Yan, Z. Xu, M. Ornik. On a Notion of Resilience for Markov Decision Processes with Reachability Objectives. In IFAC World Congress, Yokohama, Japan, pages 11261-11266, July 2023. [https://doi.org/10.1016/j.ifacol.2023.10.318].
+. C. Qu, J. He, *X. Duan*, S. Wu. Control Input Inference of Mobile Agents under Unknown Objective. In IFAC World Congress, Yokohama, Japan, pages 2134-2139, July 2023. [https://doi.org/10.1016/j.ifacol.2023.10.1117].
+. R. Yan, *X. Duan*, Z. Shi, Y. Zhong, J. R. Marden, F. Bullo. Policy Evaluation and Seeking for Multi-Agent Reinforcement Learning via Best Response. IEEE Transactions on Automatic Control, 67(4): 1898-1913, 2021. [https://doi.org/10.1109/TAC.2021.3085171].
+
+
+== Misc
+. *X. Duan*, Z. Xu, R. Yan, U. Topcu. Privacy-Utility Trade-Offs Against Limited Adversaries. IEEE Transactions on Automatic Control, 69(1): 519-526, 2024. [https://doi.org/10.1109/TAC.2023.3269360].
+. *X. Duan*, C. Zhao, S. He, P. Cheng, J. Zhang. Distributed Algorithms to Compute Walrasian Equilibrium in Mobile Crowdsensing. IEEE Transactions on Industrial Electronics, 64(5): 4048-4057, 2017. [https://doi.org/10.1109/TIE.2016.2645138].
+. Z. Xu, *X. Duan*. Robust Pandemic Control Synthesis with Formal Specifications: A Case Study on COVID-19 Pandemic. In IEEE Conference on Decision and Control, Austin, TX, USA, pages 2830-2835, December 2021. [https://doi.org/10.1109/CDC45484.2021.9683197].
+
+
+
+
+
+
+
+
+
+
+
+
+
+== Preprints
+. *X. Duan*, Y. Savas, R. Yan, Z. Xu, U. Topcu. On the Detection of Markov Decision Processes. [https://arxiv.org/abs/2112.12338].
+
+
