@@ -48,6 +48,7 @@
 
 == MDPs\/Dynamical programming\/RL
 . C. Qu, J. He, J. Li, *X. Duan*, Y. Mo. Optimal Control for Mobile Agents Considering State Unpredictability. IEEE Transactions on Automatic Control, 69(6): 3944-3951, 2024. [https://doi.org/10.1109/TAC.2023.3343818].
+. H. Pan, *X. Duan*, W. Yu, J. He. A Deep Reinforcement Learning Approach to Multi-agent Search and Rescue in Unknown Environments. In Chinese Conference on Swarm Intelligence and Cooperative Control, Nanjing, China, pages 102-112, November 2023. [https://doi.org/10.1007/978-981-97-3332-3_10].
 . *X. Duan*, N. Baharisangari, R. Yan, Z. Xu, M. Ornik. On a Notion of Resilience for Markov Decision Processes with Reachability Objectives. In IFAC World Congress, Yokohama, Japan, pages 11261-11266, July 2023. [https://doi.org/10.1016/j.ifacol.2023.10.318].
 . C. Qu, J. He, *X. Duan*, S. Wu. Control Input Inference of Mobile Agents under Unknown Objective. In IFAC World Congress, Yokohama, Japan, pages 2134-2139, July 2023. [https://doi.org/10.1016/j.ifacol.2023.10.1117].
 . R. Yan, *X. Duan*, Z. Shi, Y. Zhong, J. R. Marden, F. Bullo. Policy Evaluation and Seeking for Multi-Agent Reinforcement Learning via Best Response. IEEE Transactions on Automatic Control, 67(4): 1898-1913, 2021. [https://doi.org/10.1109/TAC.2021.3085171].
