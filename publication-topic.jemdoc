@@ -20,6 +20,7 @@
 
 
 == (Psudo)Robotics
+. Y. Wang, *X. Duan*, J. He. Learning-Based Motion Planning with Mixture Density Networks. In IEEE International Conference on Robotics and Automation, Yokohama, Japan, pages 16482-16488, May 2024. [https://doi.org/10.1109/ICRA57147.2024.10610881].
 . C. Liao, Y. Wang, X. Ding, Y. Ren, *X. Duan*, J. He. Performance Comparison of Typical Physics Engines Using Robot Models with Multiple Joints. IEEE Robotics and Automation Letters, 8(11): 7520-7526, 2023.  [https://doi.org/10.1109/LRA.2023.3320019].
 . X. Zhang, D. Wang, S. Han, W. Li, B. Zhao, Z. Wang, *X. Duan*, C. Fang, X. Li, J. He. Affordance-Driven Next-Best-View Planning for Robotic Grasping. In The Conference on Robot Learning, Atlanta, GA, USA, November 2023. [https://proceedings.mlr.press/v229/zhang23i.html].
 . C. Liao, X. Ding, *X. Duan*, J. He. A Virtual-Physical Interaction Framework for Mobile Robotics Testbeds. In China Automation Congress, Chongqing, China, pages 2931-2936, November 2023. [https://doi.org/10.1109/CAC59555.2023.10451913].
