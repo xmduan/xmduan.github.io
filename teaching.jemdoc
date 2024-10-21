@@ -6,7 +6,42 @@
 == Teaching Experience
 === Instructor at SJTU
 - AU7036: Introduction to Multi-agent Systems ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Srping, 2024
-- AU339/EE353: Network Optimization ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Fall, 2023, 2024
+~~~
+{}
+=== Course materials
+: {[https://xmduan.github.io/AU7036/syllabus.pdf Syllabus]}
+- [https://xmduan.github.io/AU7036/lecture1.pdf Lecture 1: Motivating Problems and Systems]
+- [https://xmduan.github.io/AU7036/lecture2.pdf Lecture 2: Elements of Matrix Theory]
+- [https://xmduan.github.io/AU7036/lecture3.pdf Lecture 3: Elements of Graph Theory]
+- [https://xmduan.github.io/AU7036/lecture4.pdf Lecture 4: Elements of Algebraic Graph Theory]
+- [https://xmduan.github.io/AU7036/lecture5.pdf Lecture 5: Discrete-time Averaging Systems]
+- [https://xmduan.github.io/AU7036/lecture6.pdf Lecture 6: The Laplacian Matrix]
+- [https://xmduan.github.io/AU7036/lecture7.pdf Lecture 7: Continuous-time Averaging Systems]
+- [https://xmduan.github.io/AU7036/lecture8.pdf Lecture 8: Diffusively-Coupled Linear Systems]
+~~~
+
+- AU4606/AI4702: Network Optimization ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Fall, 2023, 2024
+
+~~~
+{}
+=== Course materials
+: {[https://xmduan.github.io/AU4606/syllabus.pdf Syllabus]}
+- [https://xmduan.github.io/AU4606/lecture1.pdf Lecture 1: Introduction]
+- [https://xmduan.github.io/AU4606/lecture2.pdf Lecture 2: Basics of Graph Theory]
+- [https://xmduan.github.io/AU4606/lecture3.pdf Lecture 3: Algorithm Complexity and Data Structure]
+- [https://xmduan.github.io/AU4606/lecture4.pdf Lecture 4: Graph Search Algorithms]
+- [https://xmduan.github.io/AU4606/lecture5.pdf Lecture 5: Shortest Path Problems I]
+- [https://xmduan.github.io/AU4606/lecture6.pdf Lecture 6: Shortest Path Problems II]
+- [https://xmduan.github.io/AU4606/lecture7.pdf Lecture 7: Maximum Flow Problems I]
+- [https://xmduan.github.io/AU4606/lecture8.pdf Lecture 8: Maximum Flow Problems II]
+- [https://xmduan.github.io/AU4606/lecture9.pdf Lecture 9: Maximum Flow Problems III]
+- [https://xmduan.github.io/AU4606/lecture10.pdf Lecture 10: Minimum Cost Flow Problems I]
+- [https://xmduan.github.io/AU4606/lecture11.pdf Lecture 11: Minimum Cost Flow Problems II]
+- [https://xmduan.github.io/AU4606/lecture12.pdf Lecture 12: Global Minimum Cut Problems]
+- [https://xmduan.github.io/AU4606/lecture13.pdf Lecture 13: Minimum Spanning Tree Problems]
+- [https://xmduan.github.io/AU4606/lecture14.pdf Lecture 14: Submodular Function Optimization]
+- [https://xmduan.github.io/AU4606/lecture15.pdf Lecture 15: Assignments and Matchings]
+~~~
 
 === Teaching Assistant at UCSB
 - ME 14: Statics ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   Fall, 2020
@@ -14,5 +49,5 @@
 - ME 179P: Introduction to Robotics: Planning and Kinematics    ~~~~~~~~~~~~~~~   Winter, 2020
 - ME 6: Basic Electrical and Electronic Circuits	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Winter, 2017, 2018, 2019
 - ME 155B: Control System Design    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   Fall, 2016, 2020
-=== Student Mentor
-- Center for Science and Engineering Partnerships (CSEP), Gorman program, ``Designing Markov Chain Algorithms for Enhanced Robotic Surveillance'', Summer, 2018
+# === Student Mentor
+# - Center for Science and Engineering Partnerships (CSEP), Gorman program, ``Designing Markov Chain Algorithms for Enhanced Robotic Surveillance'', Summer, 2018
