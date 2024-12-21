@@ -2,7 +2,7 @@
 = Research topics
 
 == Robotic surveillance
-. W. Wang, J. He, *X. Duan*. On the Trade-off Between Efficiency and Unpredictability in Stochastic Robotic Surveillance. IEEE Control Systems Letters, to appear. [https://doi.org/10.1109/LCSYS.2024.3515858]. 
+. W. Wang, J. He, *X. Duan*. On the Trade-off Between Efficiency and Unpredictability in Stochastic Robotic Surveillance. IEEE Control Systems Letters, 8: 2829-2834, 2024. [https://doi.org/10.1109/LCSYS.2024.3515858]. 
 . W. Wang, *X. Duan*, J. He. Multi-Robot Stochastic Patrolling via Graph Partitioning. IEEE Transactions on Control of Network Systems, to appear. [https://doi.org/10.1109/TCNS.2024.3463502]. 
 . L. Guo, H. Pan, *X. Duan*, J. He. Balancing Efficiency and Unpredictability in Multi-robot Patrolling: A MARL-Based Approach. In IEEE International Conference on Robotics and Automation, London, United Kingdom, pages 3504-3509, May 2023. [https://doi.org/10.1109/ICRA48891.2023.10160923].
 . *X. Duan*, D. Paccagnan, F. Bullo. Stochastic Strategies for Robotic Surveillance as Stackelberg Games. IEEE Transactions on Control of Network Systems, 8(2): 769-780, 2021. [https://doi.org/10.1109/TCNS.2021.3058932]. [https://xmduan.github.io/errata/Errata-TCNS.pdf Errata].
