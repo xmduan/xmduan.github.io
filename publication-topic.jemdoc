@@ -13,7 +13,7 @@
 
 
 == Reach-avoid games/Stochastic games
-. R. Yan, S. Mi, *X. Duan*, J. Chen, X. Ji. Pursuit Winning Strategies for Reach-Avoid Games with Polygonal Obstacles. IEEE Transactions on Automatic Control, to appear. [https://doi.org/10.1109/TAC.2024.3438806].
+. R. Yan, S. Mi, *X. Duan*, J. Chen, X. Ji. Pursuit Winning Strategies for Reach-Avoid Games with Polygonal Obstacles. IEEE Transactions on Automatic Control, 70(2): 814-829, 2025. [https://doi.org/10.1109/TAC.2024.3438806].
 . R. Yan, *X. Duan*, R. Zou, X. He, Z. Shi, F. Bullo. Multiplayer Homicidal Chauffeur reach-avoid games: A pursuit enclosure function approach. Automatica, 167: 111770, 2024. [https://doi.org/10.1016/j.automatica.2024.111770].
 . R. Yan, W. Zhang, R. Deng, *X. Duan*, Z. Shi, Y. Zhong. Evaluation and Learning in Two-Player Symmetric Games via Best and Better Responses. Information Sciences, 647: 119459, 2023. [https://doi.org/10.1016/j.ins.2023.119459].
 . R. Yan, R. Deng, *X. Duan*, Z. Shi, Y. Zhong. Multiplayer Reach-Avoid Differential Games with Simple Motions: A Review. Frontiers in Control Engineering, 3, 2023. [https://doi.org/10.3389/fcteg.2022.1093186].
@@ -52,7 +52,7 @@
 
 
 == MDPs\/Dynamical programming\/RL
-. C. Qu, J. He, *X. Duan*. Control Law Learning Based on LQR Reconstruction with Inverse Optimal Control. IEEE Transactions on Automatic Control, to appear. [https://doi.org/10.1109/TAC.2024.3469788]. 
+. C. Qu, J. He, *X. Duan*. Control Law Learning Based on LQR Reconstruction with Inverse Optimal Control. IEEE Transactions on Automatic Control, 70(2): 1350-1357, 2025. [https://doi.org/10.1109/TAC.2024.3469788]. 
 . C. Qu, J. He, J. Li, *X. Duan*, Y. Mo. Optimal Control for Mobile Agents Considering State Unpredictability. IEEE Transactions on Automatic Control, 69(6): 3944-3951, 2024. [https://doi.org/10.1109/TAC.2023.3343818].
 . S. Bai, L. Zeng, C. Zhao, *X. Duan*, M. S. Talebi, P. Cheng, J. Chen. Differentially Private No-regret Exploration in Adversarial Markov Decision Processes. In Conference on Uncertainty in Artificial Intelligence, Barcelona, Spain, August 2024. [https://openreview.net/forum?id=foNKGt20YE].
 . H. Pan, *X. Duan*, W. Yu, J. He. A Deep Reinforcement Learning Approach to Multi-agent Search and Rescue in Unknown Environments. In Chinese Conference on Swarm Intelligence and Cooperative Control, Nanjing, China, pages 102-112, November 2023. [https://doi.org/10.1007/978-981-97-3332-3_10].
