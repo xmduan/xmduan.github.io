@@ -52,6 +52,7 @@
 
 
 == MDPs\/Dynamical programming\/RL
+. *X. Duan*, Y. Savas, R. Yan, Z. Xu, U. Topcu. On the Detection of Markov Decision Processes, Automatica, 175: 112196, 2025. [https://doi.org/10.1016/j.automatica.2025.112196].
 . C. Qu, J. He, *X. Duan*. Control Law Learning Based on LQR Reconstruction with Inverse Optimal Control. IEEE Transactions on Automatic Control, 70(2): 1350-1357, 2025. [https://doi.org/10.1109/TAC.2024.3469788]. 
 . C. Qu, J. He, J. Li, *X. Duan*, Y. Mo. Optimal Control for Mobile Agents Considering State Unpredictability. IEEE Transactions on Automatic Control, 69(6): 3944-3951, 2024. [https://doi.org/10.1109/TAC.2023.3343818].
 . S. Bai, L. Zeng, C. Zhao, *X. Duan*, M. S. Talebi, P. Cheng, J. Chen. Differentially Private No-regret Exploration in Adversarial Markov Decision Processes. In Conference on Uncertainty in Artificial Intelligence, Barcelona, Spain, August 2024. [https://openreview.net/forum?id=foNKGt20YE].
@@ -66,20 +67,5 @@
 . *X. Duan*, Z. Xu, R. Yan, U. Topcu. Privacy-Utility Trade-Offs Against Limited Adversaries. IEEE Transactions on Automatic Control, 69(1): 519-526, 2024. [https://doi.org/10.1109/TAC.2023.3269360].
 . *X. Duan*, C. Zhao, S. He, P. Cheng, J. Zhang. Distributed Algorithms to Compute Walrasian Equilibrium in Mobile Crowdsensing. IEEE Transactions on Industrial Electronics, 64(5): 4048-4057, 2017. [https://doi.org/10.1109/TIE.2016.2645138].
 . Z. Xu, *X. Duan*. Robust Pandemic Control Synthesis with Formal Specifications: A Case Study on COVID-19 Pandemic. In IEEE Conference on Decision and Control, Austin, TX, USA, pages 2830-2835, December 2021. [https://doi.org/10.1109/CDC45484.2021.9683197].
-
-
-
-
-
-
-
-
-
-
-
-
-
-== Preprints
-. *X. Duan*, Y. Savas, R. Yan, Z. Xu, U. Topcu. On the Detection of Markov Decision Processes. [https://arxiv.org/abs/2112.12338].
 
 
