@@ -13,6 +13,7 @@
 
 
 == Reach-avoid games/Stochastic games
+. Z. Zhong, Z. Dong, *X. Duan*, J. He. Collaboration Strategies for Two Heterogeneous Pursuers in A Pursuit-Evasion Game Using Deep Reinforcement Learning. In IEEE/RSJ International Conference on Intelligent Robots and Systems, Abu Dhabi, United Arab Emirates, pages 11962-11968, October 2024. [https://doi.org/10.1109/IROS58592.2024.10802839].
 . R. Yan, S. Mi, *X. Duan*, J. Chen, X. Ji. Pursuit Winning Strategies for Reach-Avoid Games with Polygonal Obstacles. IEEE Transactions on Automatic Control, 70(2): 814-829, 2025. [https://doi.org/10.1109/TAC.2024.3438806].
 . R. Yan, *X. Duan*, R. Zou, X. He, Z. Shi, F. Bullo. Multiplayer Homicidal Chauffeur reach-avoid games: A pursuit enclosure function approach. Automatica, 167: 111770, 2024. [https://doi.org/10.1016/j.automatica.2024.111770].
 . R. Yan, W. Zhang, R. Deng, *X. Duan*, Z. Shi, Y. Zhong. Evaluation and Learning in Two-Player Symmetric Games via Best and Better Responses. Information Sciences, 647: 119459, 2023. [https://doi.org/10.1016/j.ins.2023.119459].
