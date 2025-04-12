@@ -5,7 +5,7 @@
 . Y. John, G. Díaz-García, *X. Duan*, J. R. Marden, F. Bullo. A Stochastic Surveillance Stackelberg Game: Co-Optimizing Defense Placement and Patrol
 Strategy. IEEE Transactions on Automatic Control, to appear, 2025. [https://doi.org/10.1109/TAC.2025.3549295]. 
 . W. Wang, *X. Duan*, J. He. Multi-Robot Stochastic Patrolling via Graph Partitioning. IEEE Transactions on Control of Network Systems, 12(1): 300-312, 2025. [https://doi.org/10.1109/TCNS.2024.3463502]. 
-. W. Wang, J. He, *X. Duan*. On the Trade-off Between Efficiency and Unpredictability in Stochastic Robotic Surveillance. IEEE Control Systems Letters, 8: 2829-2834, 2024. [https://doi.org/10.1109/LCSYS.2024.3515858]. 
+. W. Wang, J. He, *X. Duan*. On the Trade-off Between Efficiency and Unpredictability in Stochastic Robotic Surveillance. IEEE Control Systems Letters, 8: 2829-2834, 2024. [https://doi.org/10.1109/LCSYS.2024.3515858] 
 . L. Guo, H. Pan, *X. Duan*, J. He. Balancing Efficiency and Unpredictability in Multi-robot Patrolling: A MARL-Based Approach. In IEEE International Conference on Robotics and Automation, London, United Kingdom, pages 3504-3509, May 2023. [https://doi.org/10.1109/ICRA48891.2023.10160923].
 . *X. Duan*, D. Paccagnan, F. Bullo. Stochastic Strategies for Robotic Surveillance as Stackelberg Games. IEEE Transactions on Control of Network Systems, 8(2): 769-780, 2021. [https://doi.org/10.1109/TCNS.2021.3058932]. [https://xmduan.github.io/errata/Errata-TCNS.pdf Errata].
 . *X. Duan*, F. Bullo. Markov Chain-Based Stochastic Strategies for Robotic Surveillance. Annual Review of Control, Robotics, and Autonomous Systems, 4: 243-264, 2020. [https://www.annualreviews.org/doi/abs/10.1146/annurev-control-071520-120123].
@@ -24,7 +24,8 @@ Strategy. IEEE Transactions on Automatic Control, to appear, 2025. [https://doi.
 . R. Yan, G. Santos, *X. Duan*, D. Parker, M. Kwiatkowska. Finite-horizon Equilibria for Neuro-symbolic Concurrent Stochastic Games. In Conference on Uncertainty in Artificial Intelligence, Eindhoven, The Netherlands, pages 2170-2180, August 2022. [https://proceedings.mlr.press/v180/yan22a/yan22a.pdf].
 
 
-== (Psudo)Robotics
+== Robotics
+. H. Jiang, J. He, *X. Duan*. CDPMM-DMP: Conditional Dirichlet Process Mixture Model-based Dynamic Movement Primitives. IEEE Transactions on Automation Science and Engineering, to appear. [https://doi.org/10.1109/TASE.2025.3559696].
 . Y. Wang, *X. Duan*, J. He. Learning-Based Motion Planning with Mixture Density Networks. In IEEE International Conference on Robotics and Automation, Yokohama, Japan, pages 16482-16488, May 2024. [https://doi.org/10.1109/ICRA57147.2024.10610881].
 . C. Liao, Y. Wang, X. Ding, Y. Ren, *X. Duan*, J. He. Performance Comparison of Typical Physics Engines Using Robot Models with Multiple Joints. IEEE Robotics and Automation Letters, 8(11): 7520-7526, 2023.  [https://doi.org/10.1109/LRA.2023.3320019].
 . X. Zhang, D. Wang, S. Han, W. Li, B. Zhao, Z. Wang, *X. Duan*, C. Fang, X. Li, J. He. Affordance-Driven Next-Best-View Planning for Robotic Grasping. In The Conference on Robot Learning, Atlanta, GA, USA, November 2023. [https://proceedings.mlr.press/v229/zhang23i.html].
