@@ -2,7 +2,8 @@
 = Research topics
 
 == Robotic surveillance
-. W. Wang, *X. Duan*, J. He. Growing Well-connected Networks for Entropy Rate Maximization. IEEE Transactions on Automatic Control, 70(11): 7636-7643, 2025. [https://ieeexplore.ieee.org/document/11020730].
+. *X. Duan*, W. Wang, R. Yan. Maximizing Markov Trajectory Entropy under Kemeny Constraints for Robotic Surveillance. IEEE Transactions on Automatic Control, to appear, 2026. [https://doi.org/10.1109/TAC.2026.3662306]. 
+. W. Wang, *X. Duan*, J. He. Growing Well-connected Networks for Entropy Rate Maximization. IEEE Transactions on Automatic Control, 70(11): 7636-7643, 2025. [https://doi.org/10.1109/TAC.2025.3575684].
 . Y. John, G. Díaz-García, *X. Duan*, J. R. Marden, F. Bullo. A Stochastic Surveillance Stackelberg Game: Co-Optimizing Defense Placement and Patrol
 Strategy. IEEE Transactions on Automatic Control, 70(8): 5468-5474, 2025. [https://doi.org/10.1109/TAC.2025.3549295]. 
 . W. Wang, *X. Duan*, J. He. Multi-Robot Stochastic Patrolling via Graph Partitioning. IEEE Transactions on Control of Network Systems, 12(1): 300-312, 2025. [https://doi.org/10.1109/TCNS.2024.3463502]. 
@@ -44,6 +45,7 @@ Strategy. IEEE Transactions on Automatic Control, 70(8): 5468-5474, 2025. [https
 
 
 == Multiagent/Networked systems
+. X. Zhou, X. Wang, *X. Duan*, Y. Bai, J. He. Formation Maneuver Control Based on the Augmented Laplacian Method. In IEEE Conference on Decision and Control, Rio de Janeiro, Brazil, pages 1596-1601, December 2025. [https://doi.org/10.1109/CDC57313.2025.11312438].
 . K. Mao, Y. Li, J. He, *X. Duan*. Herding Attack against Mobile Robotic Networks with Formation Control and Obstacle Avoidance. In Chinese Control Conference, Kunming, China, pages 5541-5547, July 2024. [https://doi.org/10.23919/CCC63176.2024.10662624].
 . Z. Wang, Y. Li, *X. Duan*, J. He. Topology-Preserving Motion Coordination for Multi-Robot Systems in Adversarial Environments. IEEE Journal of Selected Topics in Signal Processing, 18(3): 473-486, 2024. [https://doi.org/10.1109/JSTSP.2024.3421898].
 . Z. Wang, Y. Li, *X. Duan*, J. He. Topology-Preserving Second-Order Consensus: A Strategic Compensation Approach. In IEEE Conference on Decision and Control, Singapore, Singapore, pages 399-404, December 2023. [https://doi.org/10.1109/CDC49753.2023.10383971].
@@ -60,6 +62,7 @@ Strategy. IEEE Transactions on Automatic Control, 70(8): 5468-5474, 2025. [https
 
 
 == MDPs\/Dynamic programming\/RL
+. C. Qu, J. He, *X. Duan*, J. Chen. Model Selection for Inverse Reinforcement Learning via Structural Risk Minimization. In IEEE Conference on Decision and Control, Rio de Janeiro, Brazil, pages 6150-6155, December 2025. [https://doi.org/10.1109/CDC57313.2025.11312643].
 . *X. Duan*, Y. Savas, R. Yan, Z. Xu, U. Topcu. On the Detection of Markov Decision Processes, Automatica, 175: 112196, 2025. [https://doi.org/10.1016/j.automatica.2025.112196].
 . C. Qu, J. He, *X. Duan*. Control Law Learning Based on LQR Reconstruction with Inverse Optimal Control. IEEE Transactions on Automatic Control, 70(2): 1350-1357, 2025. [https://doi.org/10.1109/TAC.2024.3469788]. 
 . C. Qu, J. He, J. Li, *X. Duan*, Y. Mo. Optimal Control for Mobile Agents Considering State Unpredictability. IEEE Transactions on Automatic Control, 69(6): 3944-3951, 2024. [https://doi.org/10.1109/TAC.2023.3343818].
