@@ -62,6 +62,7 @@ Strategy. IEEE Transactions on Automatic Control, 70(8): 5468-5474, 2025. [https
 
 
 == MDPs\/Dynamic programming\/RL
+. C. Qu, J. He, J. Li, *X. Duan*. Optimal Unpredictable Control for Linear Systems. Automatica, 188: 112940, 2026. [https://doi.org/10.1016/j.automatica.2026.112940]. 
 . C. Qu, J. He, *X. Duan*, J. Chen. Model Selection for Inverse Reinforcement Learning via Structural Risk Minimization. In IEEE Conference on Decision and Control, Rio de Janeiro, Brazil, pages 6150-6155, December 2025. [https://doi.org/10.1109/CDC57313.2025.11312643].
 . *X. Duan*, Y. Savas, R. Yan, Z. Xu, U. Topcu. On the Detection of Markov Decision Processes, Automatica, 175: 112196, 2025. [https://doi.org/10.1016/j.automatica.2025.112196].
 . C. Qu, J. He, *X. Duan*. Control Law Learning Based on LQR Reconstruction with Inverse Optimal Control. IEEE Transactions on Automatic Control, 70(2): 1350-1357, 2025. [https://doi.org/10.1109/TAC.2024.3469788]. 
