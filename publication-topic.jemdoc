@@ -26,7 +26,8 @@ Strategy. IEEE Transactions on Automatic Control, 70(8): 5468-5474, 2025. [https
 . R. Yan, G. Santos, *X. Duan*, D. Parker, M. Kwiatkowska. Finite-horizon Equilibria for Neuro-symbolic Concurrent Stochastic Games. In Conference on Uncertainty in Artificial Intelligence, Eindhoven, The Netherlands, pages 2170-2180, August 2022. [https://proceedings.mlr.press/v180/yan22a/yan22a.pdf].
 
 
-== Robotics
+== Planning
+. H. Jiang, J. He, *X. Duan*. Learning from Multi-quality Demonstrations in Dynamic Movement Primitives. IEEE Robotics and Automation Letters, 2026, to appear. [https://doi.org/10.1109/LRA.2026.3693990].
 . K. Mao, J. He, *X. Duan*. Online Informative Motion Planning for Active Information Gathering of a Non-Stationary Gaussian Process. In IEEE International Conference on Robotics and Automation, Atlanta, GA, USA, pages 5438-5444, May 2025. [https://doi.org/10.1109/ICRA55743.2025.11127505].
 . C. Ming, Z. Wang, B. Zhang, Z. Cao, *X. Duan*, J. He. Stochastic Trajectory Optimization for Robotic Skill Acquisition From a Suboptimal Demonstration. IEEE Robotics and Automation Letters, 10(6): 6127 - 6134, 2025. [https://doi.org/10.1109/LRA.2025.3564208].
 . H. Jiang, J. He, *X. Duan*. CDPMM-DMP: Conditional Dirichlet Process Mixture Model-based Dynamic Movement Primitives. IEEE Transactions on Automation Science and Engineering, 22: 14201-14217, 2025. [https://doi.org/10.1109/TASE.2025.3559696].
@@ -75,6 +76,8 @@ Strategy. IEEE Transactions on Automatic Control, 70(8): 5468-5474, 2025. [https
 . C. Qu, J. He, *X. Duan*, S. Wu. Control Input Inference of Mobile Agents under Unknown Objective. In IFAC World Congress, Yokohama, Japan, pages 2134-2139, July 2023. [https://doi.org/10.1016/j.ifacol.2023.10.1117].
 . R. Yan, *X. Duan*, Z. Shi, Y. Zhong, J. R. Marden, F. Bullo. Policy Evaluation and Seeking for Multi-Agent Reinforcement Learning via Best Response. IEEE Transactions on Automatic Control, 67(4): 1898-1913, 2021. [https://doi.org/10.1109/TAC.2021.3085171].
 
+== Machine learning
+. C. Ming, C Qu, Q. Pei, Z. Pan, Y Li, *X. Duan*, L. Wu, C. He. IDEAL: Data Equilibrium Adaptation for Multi-Capability Language Model Alignment. In International Conference on Learning Representations, Rio de Janeiro, Brazil, April 2026. [https://iclr.cc/virtual/2026/poster/10007504].
 
 == Misc
 . *X. Duan*, Z. Xu, R. Yan, U. Topcu. Privacy-Utility Trade-Offs Against Limited Adversaries. IEEE Transactions on Automatic Control, 69(1): 519-526, 2024. [https://doi.org/10.1109/TAC.2023.3269360].
