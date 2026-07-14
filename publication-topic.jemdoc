@@ -2,7 +2,7 @@
 = Research topics
 
 == Robotic surveillance
-. *X. Duan*, W. Wang, R. Yan. Maximizing Markov Trajectory Entropy under Kemeny Constraints for Robotic Surveillance. IEEE Transactions on Automatic Control, to appear, 2026. [https://doi.org/10.1109/TAC.2026.3662306]. 
+. *X. Duan*, W. Wang, R. Yan. Maximizing Markov Trajectory Entropy under Kemeny Constraints for Robotic Surveillance. IEEE Transactions on Automatic Control, 71(7): 4850-4857, 2026. [https://doi.org/10.1109/TAC.2026.3662306]. 
 . W. Wang, *X. Duan*, J. He. Growing Well-connected Networks for Entropy Rate Maximization. IEEE Transactions on Automatic Control, 70(11): 7636-7643, 2025. [https://doi.org/10.1109/TAC.2025.3575684].
 . Y. John, G. Díaz-García, *X. Duan*, J. R. Marden, F. Bullo. A Stochastic Surveillance Stackelberg Game: Co-Optimizing Defense Placement and Patrol
 Strategy. IEEE Transactions on Automatic Control, 70(8): 5468-5474, 2025. [https://doi.org/10.1109/TAC.2025.3549295]. 
@@ -17,7 +17,7 @@ Strategy. IEEE Transactions on Automatic Control, 70(8): 5468-5474, 2025. [https
 
 
 == Reach-avoid games/Stochastic games
-. Y. Wang, Z. Zhao, R. Yan, *X. Duan*. Decoy-Assisted Evasion Against a Pure-Pursuit Pursuer: Analysis and Strategy Design. IEEE Control Systems Letters, 2026, to appear. [https://doi.org/10.1109/LCSYS.2026.3705295].
+. Y. Wang, Z. Zhao, R. Yan, *X. Duan*. Decoy-Assisted Evasion Against a Pure-Pursuit Pursuer: Analysis and Strategy Design. IEEE Control Systems Letters, 10: 1003-1008, 2026. [https://doi.org/10.1109/LCSYS.2026.3705295].
 . Z. Zhong, Z. Dong, *X. Duan*, J. He. Collaboration Strategies for Two Heterogeneous Pursuers in A Pursuit-Evasion Game Using Deep Reinforcement Learning. In IEEE/RSJ International Conference on Intelligent Robots and Systems, Abu Dhabi, United Arab Emirates, pages 11962-11968, October 2024. [https://doi.org/10.1109/IROS58592.2024.10802839].
 . R. Yan, S. Mi, *X. Duan*, J. Chen, X. Ji. Pursuit Winning Strategies for Reach-Avoid Games with Polygonal Obstacles. IEEE Transactions on Automatic Control, 70(2): 814-829, 2025. [https://doi.org/10.1109/TAC.2024.3438806].
 . R. Yan, *X. Duan*, R. Zou, X. He, Z. Shi, F. Bullo. Multiplayer Homicidal Chauffeur reach-avoid games: A pursuit enclosure function approach. Automatica, 167: 111770, 2024. [https://doi.org/10.1016/j.automatica.2024.111770].
